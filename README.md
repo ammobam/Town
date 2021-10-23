@@ -1,7 +1,11 @@
 # Town 🌆
-## Side project (2021-10-21 ~ )
-- generate awesome scene of town in android application
+## Note (2021-10-21 ~ )
+- Take photo in android application
+- Send it to server
+- Image processing in server (resize, saturation correct, pixelate)
+- Send it to android application
 
-## Developemnt Environment
+## Developement Environment
 - Android Studio
 - PyCharm
+- DBeaver
