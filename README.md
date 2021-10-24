@@ -5,6 +5,8 @@
 - Image processing in server (resize, saturation correct, pixelate)
 - Send it to android application
 
+
+
 ## Developement Environment
 - Android Studio
 - PyCharm
